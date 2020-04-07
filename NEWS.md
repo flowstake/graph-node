@@ -2,7 +2,9 @@
 
 ## Unreleased
 
-tbd
+### Misc
+
+- Add integration test for handling Ganache reverts (#1590).
 
 ## 0.18.0
 
